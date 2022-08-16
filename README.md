@@ -14,7 +14,7 @@ This is a backend e-commerce website with the purpose of being able to successfu
 I made a few installs including express, mysql12, and sequelize. 
 
 ## Usage
-<link href="" />
+<link href="https://drive.google.com/file/d/1ztik35HGfkZdYhZAbg2Lb1yQdDtLO4tZ/view?usp=sharing" />
 
 ## Credits 
 Sequelize
